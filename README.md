@@ -41,7 +41,7 @@ across different age groups and triggers (e.g., Caffeine, PTSD, Phobia, Social A
 
 ## 📷 Screenshots
 ### Symptoms Analysis
-![Symptoms Page](page_symptoms.png)
+![Symptoms Page](Page_symptoms.png)
 
 ### Lifestyle & Panic Attack Analysis
 ![Lifestyle Page](page_lifestyle.png)
