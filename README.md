@@ -35,7 +35,6 @@ across different age groups and triggers (e.g., Caffeine, PTSD, Phobia, Social A
 ## 🛠 Tools & Skills
 - *Snowflake SQL* – Used as cloud database (Database + Table + Warehouse setup)
 - *Power BI* – Data cleaning (Power Query), DAX calculations, and interactive dashboard design
-- *DAX* – Custom measures (Panic Score Categorization, % of Patients by Symptom)
 
 ---
 
